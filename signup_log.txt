@@ -1,0 +1,14 @@
+[2025-05-04 19:37:48] [INFO] Account created successfully!
+[2025-05-04 19:51:14] [INFO] Account created successfully!
+[2025-05-04 22:06:22] [INFO] Buyer account created: Vanshika (ID: 505)
+[2025-05-04 22:06:25] [INFO] User Vanshika created successfully as Buyer
+[2025-05-04 22:09:15] [ERROR] Passwords do not match.
+[2025-05-04 22:09:21] [INFO] Broker account created: Devansh (ID: 105)
+[2025-05-04 22:09:23] [INFO] User Devansh created successfully as Broker
+[2025-05-05 09:33:14] [INFO] Buyer account created: Spidyy (ID: 506)
+[2025-05-05 09:33:15] [INFO] User Spidy created successfully as Buyer
+[2025-05-05 09:40:31] [INFO] Buyer account created: devu (ID: 507)
+[2025-05-05 09:40:33] [INFO] User Devu created successfully as Buyer
+[2025-05-05 10:10:15] [ERROR] Passwords do not match.
+[2025-05-05 10:10:22] [INFO] Buyer account created: Ram (ID: 508)
+[2025-05-05 10:10:24] [INFO] User Ram created successfully as Buyer
